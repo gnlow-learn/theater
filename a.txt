@@ -1,0 +1,243 @@
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(6)가 총층수(0)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(1)가 총층수(0)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지하층수" ],
+      message: "지하층수(2)가 총층수(1)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지하층수" ],
+      message: "지하층수(1)가 총층수(0)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지하층수" ],
+      message: "지하층수(2)가 총층수(0)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(4)가 총층수(3)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(4)가 총층수(3)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지하층수" ],
+      message: "지하층수(3)가 총층수(2)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지하층수" ],
+      message: "지하층수(3)가 총층수(2)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "휴업종료일자" ],
+      message: '휴업시작/종료일자는 함께 있어야 합니다 (시작: "2013-11-21", 종료: undefined)'
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "휴업종료일자" ],
+      message: '휴업시작/종료일자는 함께 있어야 합니다 (시작: "2013-02-16", 종료: undefined)'
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(1)가 총층수(0)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(4)가 총층수(2)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(4)가 총층수(2)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(4)가 총층수(2)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(4)가 총층수(2)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(4)가 총층수(2)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(4)가 총층수(2)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "지상층수" ],
+      message: "지상층수(4)가 총층수(2)보다 큽니다"
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "휴업종료일자" ],
+      message: '휴업시작/종료일자는 함께 있어야 합니다 (시작: "2017-01-01", 종료: undefined)'
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "휴업종료일자" ],
+      message: '휴업시작/종료일자는 함께 있어야 합니다 (시작: "2017-01-01", 종료: undefined)'
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "휴업종료일자" ],
+      message: '휴업시작/종료일자는 함께 있어야 합니다 (시작: "2017-01-02", 종료: undefined)'
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "휴업종료일자" ],
+      message: '휴업시작/종료일자는 함께 있어야 합니다 (시작: "2017-01-01", 종료: undefined)'
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "휴업종료일자" ],
+      message: '휴업시작/종료일자는 함께 있어야 합니다 (시작: "2017-01-01", 종료: undefined)'
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "휴업종료일자" ],
+      message: '휴업시작/종료일자는 함께 있어야 합니다 (시작: "2009-11-18", 종료: undefined)'
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "휴업종료일자" ],
+      message: '휴업시작/종료일자는 함께 있어야 합니다 (시작: undefined, 종료: "2021-12-31")'
+    }
+  ]
+}
+{
+  issues: [
+    {
+      code: "custom",
+      path: [ "최종수정시점" ],
+      message: '최종수정시점("2022-03-06 15:52:19")이 최초등록시점("2022-03-07")보다 빠릅니다'
+    }
+  ]
+}
